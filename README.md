@@ -31,4 +31,4 @@ ProjectsToDiscord es una herramienta en Python que conecta 🌐 GitHub y 🚀 Di
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
-© [TuNombreDeUsuarioEnGitHub](https://github.com/TuNombreDeUsuarioEnGitHub)
+© [TuNombreDeUsuarioEnGitHub](https://github.com/cerotre)
